@@ -1,2 +1,6 @@
-streamlit 
-pysql
+streamlit
+pandas
+pillow
+requests
+pymysql
+st-aggrid
